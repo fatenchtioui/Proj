@@ -1,10 +1,10 @@
 # Proj
 
 # file_foler: dataset
-|    | Department   | Department Name           | Division                 | Gender   |   Base Salary |   2020 Overtime Pay |   2020 Longevity Pay | Grade   |
-|---:|:-------------|:--------------------------|:-------------------------|:---------|--------------:|--------------------:|---------------------:|:--------|
-|  0 | ABS          | Alcohol Beverage Services | Wholesale Administration | F        |         78902 |              199.17 |                 0    | 18      |
-|  1 | ABS          | Alcohol Beverage Services | Administrative Services  | F        |         35926 |                0    |              4038.91 | 16      |
-|  2 | ABS          | Alcohol Beverage Services | Administration           | M        |        167345 |                0    |                 0    | M2      |
-|  3 | ABS          | Alcohol Beverage Services | Wholesale Operations     | F        |         90848 |                0    |              5717.68 | 21      |
-|  4 | ABS          | Alcohol Beverage Services | Administration           | F        |         78902 |              205.16 |              2460.24 | 18      |
+|    | category              |   room_count |   bathroom_count |   size | type     |   price | city   | region        |   log_price |
+|---:|:----------------------|-------------:|-----------------:|-------:|:---------|--------:|:-------|:--------------|------------:|
+|  0 | Terrains et Fermes    |           -1 |               -1 |     -1 | À Vendre |  100000 | Ariana | Raoued        |     5       |
+|  1 | Terrains et Fermes    |           -1 |               -1 |     -1 | À Vendre |  316000 | Ariana | Autres villes |     5.49969 |
+|  2 | Appartements          |            2 |                1 |     80 | À Louer  |     380 | Ariana | Autres villes |     2.57978 |
+|  3 | Locations de vacances |            1 |                1 |     90 | À Louer  |      70 | Ariana | Autres villes |     1.8451  |
+|  4 | Appartements          |            2 |                2 |    113 | À Vendre |  170000 | Ariana | Ariana Ville  |     5.23045 |
