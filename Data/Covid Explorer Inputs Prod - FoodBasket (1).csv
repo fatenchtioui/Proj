@@ -1,0 +1,65 @@
+iso3,countryname,ChangeInFoodBasketCost
+#country+code,#country+name,#indicator+foodbasket+change+pct
+ABW,Aruba,
+AFG,Afghanistan,0.04
+AGO,Angola,
+ARG,Argentina,
+BDI,Burundi,0.05
+BFA,Burkina Faso,0.1
+BGD,Bangladesh,0.1
+BOL,Bolivia,
+BRA,Brazil,
+CAF,Central African Republic,0.13
+CHL,Chile,
+CMR,Cameroon,0.05
+COD,Democratic Republic of the Congo,0.05
+COG,Congo,
+COL,Colombia,0.06
+CRI,Costa Rica,
+CUW,Curaçao,
+DJI,Djibouti,0.03
+DOM,Dominican Republic,
+ECU,Ecuador,0.01
+EGY,Egypt,0.06
+ETH,Ethiopia,0
+GTM,Guatemala,
+GUY,Guyana,
+HND,Honduras,
+HTI,Haiti,0.19
+IRN,Iran (Islamic Republic of),
+IRQ,Iraq,0.01
+JOR,Jordan,0
+KEN,Kenya,
+LBN,Lebanon,
+LBY,Libya,
+MDG,Madagascar,-0.02
+MEX,Mexico,
+MLI,Mali,0.04
+MMR,Myanmar,0.17
+MOZ,Mozambique,0.07
+NER,Niger,-0.03
+NGA,Nigeria,
+PAK,Pakistan,0.06
+PAN,Panama,
+PER,Peru,
+PRY,Paraguay,
+PSE,State of Palestine,
+RWA,Rwanda,0.16
+SDN,Sudan,0.17
+SLV,El Salvador,
+SOM,Somalia,0.02
+SSD,South Sudan,0.37
+SYR,Syrian Arab Republic,-0.07
+TCD,Chad,0.06
+TJK,Tajikistan,-0.05
+TKM,Turkmenistan,
+TTO,Trinidad and Tobago,
+TUR,Türkiye,
+TZA,United Republic of Tanzania,0.13
+UGA,Uganda,0.16
+UKR,Ukraine,0.05
+URY,Uruguay,
+UZB,Uzbekistan,
+VEN,Venezuela,
+YEM,Yemen,-0.09
+ZMB,Zambia,-0.01
